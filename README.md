@@ -6,7 +6,7 @@
 
 <div align="center">
 
-#  Your educational knowledge... at your fingertips, anytime, anywhere.
+  Your educational knowledge... at your fingertips, anytime, anywhere.
 "Our project is not merely a tool for browsing and publishing books; it is a comprehensive educational environment that supports your academic and scholarly journey from day one."
 
 </div> 
